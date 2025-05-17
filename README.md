@@ -13,7 +13,6 @@ The project consists of several Jupyter notebooks, each focusing on different as
 - `RandomForest-Meet.ipynb`: Random Forest implementation for water quality prediction
 
 ## Documentation
-- `245 Project Proposal.pdf`: Initial project proposal and requirements
 - `BeyondTheTap_presentation.pdf`: Final project presentation
 
 ## Getting Started
