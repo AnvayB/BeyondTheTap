@@ -53,10 +53,9 @@ The project results and findings are presented in `BeyondTheTap_presentation.pdf
 <!-- ## Contributing
 This is a course project for DATA 245. Please refer to the project proposal for more details about the project scope and requirements. -->
 
-## License
-This project is part of an academic course and is not licensed for commercial use.
-<!-- 
+
 ## Acknowledgments
-- Course: DATA 245
-- Project Team: [Team Members]
-- Dataset Source: [Source Information]  -->
+- Project Team:
+  - [Shweta Shinde](https://www.linkedin.com/in/shweta-shinde-515b62214/)
+  - [Gayatri Patil](https://www.linkedin.com/in/gayatri-patil-3490b316a/)
+  - [Meet Patel](https://www.linkedin.com/in/meetpatel06/)
