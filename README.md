@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on analyzing and predicting water quality in various cities in the Bay Area using pipeline infrastructure data and various machine learning techniques. The analysis is performed on water quality data to understand patterns, make predictions, and provide insights for water quality management.
 
+## View Full Presentation Here
+- [BeyondTheTap_presentation.pdf](https://drive.google.com/file/d/117U3zEFhkW9ZUNGQNTnogXwJH1yEzM-y/view?usp=sharing)
+
 ## Project Structure
 The project consists of several Jupyter notebooks, each focusing on different aspects of the analysis:
 
@@ -11,9 +14,6 @@ The project consists of several Jupyter notebooks, each focusing on different as
 - `Clustering_LightGBM.ipynb`: Clustering analysis using LightGBM
 - `HistGBClassifier.ipynb`: Classification using Histogram-based Gradient Boosting
 - `RandomForest-Meet.ipynb`: Random Forest implementation for water quality prediction
-
-## Documentation
-- `BeyondTheTap_presentation.pdf`: Final project presentation
 
 ## Getting Started
 
